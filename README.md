@@ -1,4 +1,4 @@
-<!--# Hi there, I'm Ahmad Hassan 👋
+# Hi there, I'm Ahmad Hassan 👋
 
 ### 🚀 Full Stack Developer | Backend Engineer
 I'm a passionate developer focused on building scalable web applications and high-performance backend systems. Currently diving deep into professional workflows and freelancing.
@@ -47,4 +47,4 @@ I'm a passionate developer focused on building scalable web applications and hig
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
